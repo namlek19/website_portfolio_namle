@@ -1,0 +1,11 @@
+# Cài đặt (Dependencies)
+node_modules/
+
+# Biến môi trường (Tuyệt đối không push file này)
+.env
+
+# Các file rác/log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
