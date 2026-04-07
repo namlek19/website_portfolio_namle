@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Spidey Logo Font */
+@font-face {
+  font-family: 'CombackHome';
+  src: url('./assets/fonts/CombackHome.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Name Font */
+@font-face {
+  font-family: 'Fontchoten';
+  src: url('./assets/fonts/Fontchoten.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Description Font */
+@font-face {
+  font-family: 'Fontchomota';
+  src: url('./assets/fonts/Fontchomota.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
